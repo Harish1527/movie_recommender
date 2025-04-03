@@ -42,7 +42,9 @@ The system leverages publicly available movie datasets, including:
 1. Search for a movie.
 2. Receive recommendations based on similar movies or user preferences.
 
-##OUTPUT:
+
+**OUTPUT
+**
 ![image](https://github.com/user-attachments/assets/929e4884-4604-4e3d-924f-d4fa4c3614e6)
 ![image](https://github.com/user-attachments/assets/7e578a19-1b69-4dc0-bb02-62fbf15c5b81)
 
