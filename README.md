@@ -33,9 +33,8 @@ The **Movie Recommendation System** is a machine learning-powered application th
    ```
 6. **Access the app in your browser:**
    ```
-http://localhost:8501/
-```
-
+   http://localhost:8501/
+   ```
 ## 📌 Dataset
 The system leverages publicly available movie datasets, including:
 - **IMDb Dataset*
